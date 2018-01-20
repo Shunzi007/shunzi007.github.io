@@ -1,28 +1,28 @@
 # Basic
-title: Vno Jekyll
-subtitle: A blog-orientation theme for Jekyll
-welcome_message: <a href="https://github.com/onevcat/vno-jekyll" target="_blank">Download the theme</a>
-description: Vno Jekyll is a port of my Ghost theme vno.
-creator: <a href="http://onev.cat">@onevcat</a>
-
-url: "http://vno.onevcat.com"
+title: Shunzi007
+subtitle: Still waters run deep.
+description: 我是王顺，是一名iOS开发者，Swift语言爱好者，Toastmaster会员。
+welcome_message: 山不在高，有仙则名。水不在深，有龙则灵。斯是陋室，惟吾德馨。苔痕上阶绿，草色入帘青。谈笑有鸿儒，往来无白丁。可以调素琴，阅金经。无丝竹之乱耳，无案牍之劳形。南阳诸葛庐，西蜀子云亭。孔子云：“何陋之有？”
+creator: <a href="https://github.com/Shunzi007">@Shunzi007</a>
+url: ""
 
 permalink: /:year/:month/:title/
 
 # Format
 highlighter: rouge
+markdown: kramdown
 
 # supported colors: blue, green, purple, red, orange or slate. If you need clear, leave it empty.
-cover_color: red
+cover_color: green
 
 # The blog button should not be removed.
 blog_button:
-    title: Blog
-    description: Visit blog
+    title: 博客
+    description: 访问博客
 
 # Navigation buttons in the front page.
 nav:
-    - {title: Projects, description: My Projects, url: 'http://project.onevcat.com'}
+    - {title: 简历, description: 我的简历, url: ''}
     # - {title: Another Button, description: A button, url: 'http://example.com'}
 
 # Pagination
@@ -37,11 +37,12 @@ comment:
     
 # Social
 social:
-    weibo: onevcat
-    github: onevcat
-    twitter: onevcat
-    gplus: 107108267983477358170
-    mail: onev@onevcat.com
+    weibo: 2834854683
+    github: Shunzi007
+    twitter: ShunWang007
+    gplus: 107108267983477358171
+    mail: shun.wang.coder@gmail.com
+
 
 # Google Analytics
 ga:
